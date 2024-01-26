@@ -1,0 +1,146 @@
+
+
+.App {
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  
+}/*
+.fare-card {
+  /*
+  width: 23%; 
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 1%; 
+  text-align: left;
+  position: relative;
+  */
+  /*width: 15em;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+	overflow: hidden;
+	margin: 2em;
+	text-align: left;
+	transition: all 0.25s;
+	background-color: rgb(245, 245, 245);
+  position: relative;
+  border: 1px solid #ccc;
+  padding: 10px;
+  position: relative; 
+  background-color: rgb(245, 245, 245);
+  transition: all 0.25s;
+  text-align: left;
+  overflow: hidden;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.319);
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+.fare-price {
+  color: #3498db; 
+  margin-bottom: 10px; 
+  text-align: right;
+  
+}
+
+
+.view-more {
+  display: block;
+  margin: 20px auto;
+  background-color: blue;
+  color: white;
+  padding: 10px 40px;
+  border: none;
+  cursor: pointer;
+}
+
+.fare-card button {
+  /*background-color: #3498db; 
+  color: #fff; 
+  border: none;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  left: 50%;
+  display: inline-block;
+}
+
+.fare-card button:hover {
+  background-color: #2980b9; /* Nuevo color azul al pasar el ratón sobre el botón 
+}
+
+.fare-card img {
+  /*max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 150px;
+  object-fit: cover; /* Ajusta la imagen al tamaño del contenedor 
+}
+
+.fares-container {
+  /*display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 80%;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Crea cuatro columnas de igual tamaño 
+  grid-gap: 10px; /* Espacio entre las celdas de la cuadrícula 
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}*/
